@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Моё задание Wordwall</h1>
-    <iframe src="<iframe style="max-width:100%" src=https://wordwall.net/ru/embed/5960a1b52a964abca2ea4d3f76b01750?themeId=64&templateId=89&fontStackId=0 width="500" height="380" frameborder="0" allowfullscreen></iframe>" width="100%" height="500px"></iframe>
+    <iframe style="max-width:100%" src="https://wordwall.net/ru/embed/5960a1b52a964abca2ea4d3f76b01750?themeId=64&templateId=89&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 </body>
 </html>
